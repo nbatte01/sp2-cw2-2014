@@ -1,15 +1,9 @@
 /**
- * Created by keith for the second coursework assignment.
- *
- * All the tests should be (re-)written using JUnit
+ * Created by Nicholas Batten for the second coursework assignment.
  */
 public class FractionCalculatorTest {
     public static void main(String[] args) {
         System.out.print("\f"); //Clear terminal window on blueJ software
-        
-        //test the clear method
-        FractionCalculator a = new FractionCalculator();
-        
         
         // test the first error check in the operator method
         FractionCalculator b = new FractionCalculator();
