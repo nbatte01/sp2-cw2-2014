@@ -1,3 +1,9 @@
+/**
+ * Created by Nicholas Batten for the second coursework assignment.
+ */
+
+
+
 import java.util.Scanner;
 import java.util.Arrays;
 
