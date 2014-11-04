@@ -1,8 +1,9 @@
 /**
- * Created by keith for the second coursework assignment.
+ * Created by Nicholas Batten for the second coursework assignment.
  *
- * All the tests should be (re-)written using JUnit
  */
+
+
 public class FractionTest {
     public static void main(String[] args) {
         System.out.print("\f"); //Clear terminal window on blueJ software
